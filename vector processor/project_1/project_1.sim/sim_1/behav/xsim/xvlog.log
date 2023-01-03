@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NPU/vector processor/倒数/硬件/QDS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module QDS
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NPU/vector processor/倒数/硬件/QDS_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module QDS_tb
